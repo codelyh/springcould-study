@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/supermaker.iml" filepath="$PROJECT_DIR$/supermaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supermaker-config/supermaker-config.iml" filepath="$PROJECT_DIR$/supermaker-config/supermaker-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supermaker-eureka/supermaker-eureka.iml" filepath="$PROJECT_DIR$/supermaker-eureka/supermaker-eureka.iml" />
+    </modules>
+  </component>
+</project>

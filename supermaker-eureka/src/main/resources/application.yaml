@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: springcloud-eureka-server
+server:
+  port: 8005
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url: http://localhost:8005/eureka/
