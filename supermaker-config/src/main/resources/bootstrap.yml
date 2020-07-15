@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/niaonao/spring-cloud
+          uri: https://github.com/niaonao/ssss
           username: niaonao
           password: niaonao123456
           default-label: master
