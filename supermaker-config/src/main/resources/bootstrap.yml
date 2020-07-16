@@ -7,8 +7,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/codelyh/supermaker.git
-          search-paths: /supermaker/supermaker-config
+          uri: https://github.com/codelyh/config-repo.git
+#          search-paths: /config-repo,supermaker-config
           basedir: F:\sup\config
           username: 329890023@qq.com
           password: lyhzq802397
