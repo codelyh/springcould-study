@@ -21,6 +21,7 @@
     <modules>
         <module>supermaker-config</module>
         <module>supermaker-eureka</module>
+        <module>supermaker-config-client</module>
 
     </modules>
 

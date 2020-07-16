@@ -8,9 +8,12 @@ spring:
       server:
         git:
           uri: https://github.com/codelyh/config-repo.git
-#          search-paths: /config-repo,supermaker-config
+          searchPaths: config
           basedir: F:\sup\config
           username: 329890023@qq.com
           password: lyhzq802397
 #          default-label: master
-
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8005/eureka/

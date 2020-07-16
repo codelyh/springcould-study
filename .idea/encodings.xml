@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/supermaker-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaker-config-clien" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaker-config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/supermaker-eureka" charset="UTF-8" />
   </component>
 </project>

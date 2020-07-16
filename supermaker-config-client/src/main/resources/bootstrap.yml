@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    config:
+      name: config
+      profile: application
+      label: master
+      discovery:
+        enabled: true
+        serviceId: supermaker-config-server
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8005/eureka/

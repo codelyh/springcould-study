@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c17a52a6-27e0-4493-ad71-36aa09e081bb" name="Default Changelist" comment="">
+    <list default="true" id="c17a52a6-27e0-4493-ad71-36aa09e081bb" name="Default Changelist" comment="现在完成注册中心  和配置中心完整获取配置中心文件">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/src/main/java/com/zq/lyh/supermaker/supermakerconfigclient/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/src/main/java/com/zq/lyh/supermaker/supermakerconfigclient/SupermakerConfigClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/src/test/java/com/zq/lyh/supermaker/supermakerconfigclient/SupermakerConfigClientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/supermaker-config-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/target/classes/com/zq/lyh/supermaker/supermakerconfigclient/ClientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/target/classes/com/zq/lyh/supermaker/supermakerconfigclient/SupermakerConfigClientApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supermaker-config-client/target/test-classes/com/zq/lyh/supermaker/supermakerconfigclient/SupermakerConfigClientApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/supermaker-config/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/supermaker-config/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,10 +61,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/practice/supermaker-master" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/supermaker-config-client/src/main/java/com/zq/lyh/supermaker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/supermaker-config-client/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2916053" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -57,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SupermakerConfigApplication (1)">
+  <component name="RunManager" selected="Spring Boot.SupermakerConfigClientApplication (1)">
     <configuration name="SupermakerConfigApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="supermaker-config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zq.lyh.supermaker.supermakerconfig.SupermakerConfigApplication" />
@@ -68,6 +91,33 @@
     <configuration name="SupermakerConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="supermaker-config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cjdg.lyh.supermaker.supermakerconfig.SupermakerConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupermakerConfigClienApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="supermaker-config-clien" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zq.lyh.supermaker.supermakerconfigclien.SupermakerConfigClienApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupermakerConfigClientApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="supermaker-config-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zq.lyh.supermaker.supermakerconfigclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zq.lyh.supermaker.supermakerconfigclient.SupermakerConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupermakerConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="supermaker-config-clien" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zq.lyh.supermaker.supermakerconfigclient.SupermakerConfigClientApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,6 +136,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SupermakerConfigClientApplication (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpringGeneralSettings">
     <option name="allowAutoConfigurationMode" value="true" />
@@ -101,7 +156,8 @@
       <option name="presentableId" value="Default" />
       <updated>1594798977160</updated>
       <workItem from="1594798986222" duration="7439000" />
-      <workItem from="1594862643374" duration="7629000" />
+      <workItem from="1594862643374" duration="9406000" />
+      <workItem from="1594880483382" duration="12155000" />
     </task>
     <task id="LOCAL-00001" summary="eqweq">
       <created>1594868073981</created>
@@ -131,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594868624384</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sahnchu">
+      <created>1594870649364</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594870649364</updated>
+    </task>
+    <task id="LOCAL-00006" summary="删除">
+      <created>1594885261416</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594885261416</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +252,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="eqweq" />
-    <option name="LAST_COMMIT_MESSAGE" value="eqweq" />
+    <MESSAGE value="sahnchu" />
+    <MESSAGE value="删除" />
+    <MESSAGE value="现在完成注册中心  和配置中心完整获取配置中心文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="现在完成注册中心  和配置中心完整获取配置中心文件" />
   </component>
 </project>
