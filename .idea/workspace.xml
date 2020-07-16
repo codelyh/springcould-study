@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c17a52a6-27e0-4493-ad71-36aa09e081bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-config/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-config/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594798977160</updated>
       <workItem from="1594798986222" duration="7439000" />
-      <workItem from="1594862643374" duration="5519000" />
+      <workItem from="1594862643374" duration="7629000" />
     </task>
     <task id="LOCAL-00001" summary="eqweq">
       <created>1594868073981</created>
@@ -115,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594868099258</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="eqweq">
+      <created>1594868550636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594868550636</updated>
+    </task>
+    <task id="LOCAL-00004" summary="eqweq">
+      <created>1594868624384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594868624384</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +140,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:F:/sup/supermaker/config-repo" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -132,6 +173,11 @@
           </value>
         </entry>
       </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
