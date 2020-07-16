@@ -1,15 +1,15 @@
 server:
   port: 7001
-
 spring:
   application:
-    name: supermaker-config
+    name: supermaker-config-server
   cloud:
     config:
       server:
         git:
-          uri: https://github.com/niaonao/ssss
-          username: niaonao
-          password: niaonao123456
-          default-label: master
-          search-paths: /doc/config
+          uri: https://github.com/spring-cloud-samples/config-repo
+          basedir: F:\sup\supermaker\config
+#          username: 329890023@qq.com
+#          password: lyhzq802397
+#          default-label: master
+#          search-paths: /config

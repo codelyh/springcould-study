@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c17a52a6-27e0-4493-ad71-36aa09e081bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermaker-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/supermaker-config/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/supermaker-config/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/supermaker-eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-eureka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/supermaker-eureka/src/main/resources/application.yaml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/supermaker-eureka/src/test/java/com/zq/lyh/supermaker/supermakereureka/SupermakerEurekaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-eureka/src/test/java/com/zq/lyh/supermaker/supermakereureka/SupermakerEurekaApplicationTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,8 +99,16 @@
       <option name="presentableId" value="Default" />
       <updated>1594798977160</updated>
       <workItem from="1594798986222" duration="7439000" />
-      <workItem from="1594862643374" duration="4891000" />
+      <workItem from="1594862643374" duration="5153000" />
     </task>
+    <task id="LOCAL-00001" summary="eqweq">
+      <created>1594868073981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594868073981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="eqweq" />
+    <option name="LAST_COMMIT_MESSAGE" value="eqweq" />
   </component>
 </project>
