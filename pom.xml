@@ -22,6 +22,10 @@
         <module>supermaker-config</module>
         <module>supermaker-eureka</module>
         <module>supermaker-config-client</module>
+        <module>supermaker-bus</module>
+        <module>supermaker-netflix</module>
+        <module>supermaker-feign</module>
+
 
     </modules>
 

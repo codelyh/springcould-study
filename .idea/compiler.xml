@@ -6,28 +6,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="supermaker-eureka" />
-        <module name="supermaker-config-client" />
-        <module name="supermaker" />
         <module name="supermaker-config-clien" />
+        <module name="supermaker-bus" />
         <module name="supermaker-config" />
+        <module name="supermaker-netflix" />
+        <module name="supermaker-eureka" />
+        <module name="supermaker-ribbon" />
+        <module name="supermaker" />
+        <module name="supermaker-config-client" />
+        <module name="supermaker-feign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="supermaker" target="1.8" />
+      <module name="supermaker-bus" target="1.8" />
       <module name="supermaker-config" target="1.8" />
       <module name="supermaker-config-clien" target="1.8" />
       <module name="supermaker-config-client" target="1.8" />
       <module name="supermaker-eureka" target="1.8" />
+      <module name="supermaker-feign" target="1.8" />
+      <module name="supermaker-netflix" target="1.8" />
+      <module name="supermaker-ribbon" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="supermaker" options="-parameters" />
+      <module name="supermaker-bus" options="-parameters" />
       <module name="supermaker-config" options="-parameters" />
       <module name="supermaker-config-clien" options="-parameters" />
       <module name="supermaker-config-client" options="-parameters" />
       <module name="supermaker-eureka" options="-parameters" />
+      <module name="supermaker-feign" options="-parameters" />
+      <module name="supermaker-netflix" options="-parameters" />
+      <module name="supermaker-ribbon" options="-parameters" />
     </option>
   </component>
 </project>

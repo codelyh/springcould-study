@@ -8,6 +8,10 @@
         <option value="$PROJECT_DIR$/supermaker-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/supermaker-config-clien/pom.xml" />
         <option value="$PROJECT_DIR$/supermaker-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/supermaker-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/supermaker-netflix/pom.xml" />
+        <option value="$PROJECT_DIR$/supermaker-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/supermaker-ribbon/pom.xml" />
       </list>
     </option>
   </component>

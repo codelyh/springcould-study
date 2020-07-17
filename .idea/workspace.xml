@@ -2,18 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c17a52a6-27e0-4493-ad71-36aa09e081bb" name="Default Changelist" comment="现在完成注册中心  和配置中心完整获取配置中心文件">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_29_0_android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_context_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_core_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_amqp_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_rabbit_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_core_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_tuple_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tuple_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_16_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/supermaker-config-client/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/supermaker-config-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/supermaker-config-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermaker-config-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermaker-config-client/src/main/java/com/zq/lyh/supermaker/supermakerconfigclient/ClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermaker-config-client/src/main/java/com/zq/lyh/supermaker/supermakerconfigclient/SupermakerConfigClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermaker-config-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermaker-config-client/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermaker-config-client/src/test/java/com/zq/lyh/supermaker/supermakerconfigclient/SupermakerConfigClientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermaker-config-client/supermaker-config-client.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/supermaker-config-client/target/classes/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/supermaker-config-client/target/classes/bootstrap.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/supermaker-config-client/target/classes/com/zq/lyh/supermaker/supermakerconfigclient/ClientController.class" afterDir="false" />
@@ -25,8 +72,13 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/supermaker-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/supermaker-config/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-config-client/src/main/java/com/zq/lyh/supermaker/supermakerconfigclient/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config-client/src/main/java/com/zq/lyh/supermaker/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-config-client/src/main/java/com/zq/lyh/supermaker/supermakerconfigclient/SupermakerConfigClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config-client/src/main/java/com/zq/lyh/supermaker/SupermakerConfigClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-config-client/src/test/java/com/zq/lyh/supermaker/supermakerconfigclient/SupermakerConfigClientApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config-client/src/test/java/com/zq/lyh/supermaker/SupermakerConfigClientApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-config/src/main/java/com/zq/lyh/supermaker/supermakerconfig/SupermakerConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config/src/main/java/com/zq/lyh/supermaker/SupermakerConfigApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-config/src/test/java/com/zq/lyh/supermaker/supermakerconfig/SupermakerConfigApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-config/src/test/java/com/zq/lyh/supermaker/SupermakerConfigApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-eureka/src/main/java/com/zq/lyh/supermaker/supermakereureka/SupermakerEurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-eureka/src/main/java/com/zq/lyh/supermaker/SupermakerEurekaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermaker-eureka/src/test/java/com/zq/lyh/supermaker/supermakereureka/SupermakerEurekaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermaker-eureka/src/test/java/com/zq/lyh/supermaker/SupermakerEurekaApplicationTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +133,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.SupermakerConfigClientApplication (1)">
+    <configuration name="SupermakerBusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="supermaker-bus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zq.lyh.supermaker.supermakerbus.SupermakerBusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SupermakerConfigApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="supermaker-config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zq.lyh.supermaker.supermakerconfig.SupermakerConfigApplication" />
@@ -136,6 +195,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SupermakerFeignApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="supermaker-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zq.lyh.supermaker.SupermakerFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupermakerFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="supermaker-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zq.lyh.supermaker.supermakerfeign.SupermakerFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupermakerNetflixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="supermaker-netflix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zq.lyh.supermaker.supermakernetflix.SupermakerNetflixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupermakerRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="supermaker-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zq.lyh.supermaker.SupermakerRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.SupermakerConfigClientApplication (1)" />
@@ -157,7 +244,7 @@
       <updated>1594798977160</updated>
       <workItem from="1594798986222" duration="7439000" />
       <workItem from="1594862643374" duration="9406000" />
-      <workItem from="1594880483382" duration="12155000" />
+      <workItem from="1594880483382" duration="19887000" />
     </task>
     <task id="LOCAL-00001" summary="eqweq">
       <created>1594868073981</created>
@@ -201,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594885261416</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="现在完成注册中心  和配置中心完整获取配置中心文件">
+      <created>1594893918661</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594893918661</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
