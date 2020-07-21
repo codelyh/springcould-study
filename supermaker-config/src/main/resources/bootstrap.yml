@@ -16,8 +16,8 @@ spring:
         git:
           uri: https://github.com/codelyh/config-repo.git
           basedir: F:\sup\config
-          username: 329890023@qq.com
-          password: lyhzq802397
+          username: **
+          password: **
           search-paths: config/
 #          default-label: master
 eureka:
