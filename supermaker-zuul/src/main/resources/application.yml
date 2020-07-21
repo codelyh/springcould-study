@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: supermaker-zuul
+server:
+  port: 7005
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8005/eureka/
+zuul:
+  prefix: /api
+  routes:
+    zuul-service01:       # 随意写的区分不同映射服务器的名称（只是区分不同的映射服务器）
+      path: /userService/**    # 自定义映射服务器路径的名称（相当于key，外部访问这个地址会映射到下面的service-id这个value值。然后从eureka服务列表找到对应服务名称，进而负载均衡的请求一个服务器）
+      #      url: http://127.0.0.1:8093  # 这是写的固定映射url，可代替service-id。但是不能实现服务器的负载均衡和高可用，因为总是访问同一服务器
+      service-id: supermaker-feign #对应的微服务的名称

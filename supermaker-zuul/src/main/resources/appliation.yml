@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: supermaker-zuul
-server:
-  port: 7005
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8005/eureka/
