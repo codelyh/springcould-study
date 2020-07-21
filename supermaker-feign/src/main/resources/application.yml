@@ -1,1 +1,9 @@
-
+spring:
+  application:
+    name: supermaker-feign
+server:
+  port: 7003
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8005/eureka/
