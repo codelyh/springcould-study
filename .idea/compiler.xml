@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="supermaker-config-clien" />
-        <module name="supermaker-bus" />
+        <module name="supermaker-zuul" />
         <module name="supermaker-config" />
         <module name="supermaker-netflix" />
         <module name="supermaker-eureka" />
@@ -15,6 +15,7 @@
         <module name="supermaker" />
         <module name="supermaker-config-client" />
         <module name="supermaker-feign" />
+        <module name="supermaker-user" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +28,8 @@
       <module name="supermaker-feign" target="1.8" />
       <module name="supermaker-netflix" target="1.8" />
       <module name="supermaker-ribbon" target="1.8" />
+      <module name="supermaker-user" target="1.8" />
+      <module name="supermaker-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -40,6 +43,8 @@
       <module name="supermaker-feign" options="-parameters" />
       <module name="supermaker-netflix" options="-parameters" />
       <module name="supermaker-ribbon" options="-parameters" />
+      <module name="supermaker-user" options="-parameters" />
+      <module name="supermaker-zuul" options="-parameters" />
     </option>
   </component>
 </project>

@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/supermaker-netflix/pom.xml" />
         <option value="$PROJECT_DIR$/supermaker-feign/pom.xml" />
         <option value="$PROJECT_DIR$/supermaker-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/supermaker-user/pom.xml" />
+        <option value="$PROJECT_DIR$/supermaker-zuul/pom.xml" />
       </list>
     </option>
   </component>

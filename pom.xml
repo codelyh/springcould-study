@@ -24,8 +24,8 @@
         <module>supermaker-config-client</module>
         <module>supermaker-netflix</module>
         <module>supermaker-feign</module>
-        <module>supermaker-ribbon</module>
         <module>supermaker-user</module>
+        <module>supermaker-zuul</module>
 
 
     </modules>

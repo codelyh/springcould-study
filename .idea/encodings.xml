@@ -10,5 +10,7 @@
     <file url="file://$PROJECT_DIR$/supermaker-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/supermaker-netflix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/supermaker-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaker-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaker-zuul" charset="UTF-8" />
   </component>
 </project>

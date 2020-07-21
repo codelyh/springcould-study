@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/supermaker.iml" filepath="$PROJECT_DIR$/supermaker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/supermaker-bus/supermaker-bus.iml" filepath="$PROJECT_DIR$/supermaker-bus/supermaker-bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/supermaker-config/supermaker-config.iml" filepath="$PROJECT_DIR$/supermaker-config/supermaker-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/supermaker-config-client/supermaker-config-clien.iml" filepath="$PROJECT_DIR$/supermaker-config-client/supermaker-config-clien.iml" />
       <module fileurl="file://$PROJECT_DIR$/supermaker-config-client/supermaker-config-client.iml" filepath="$PROJECT_DIR$/supermaker-config-client/supermaker-config-client.iml" />
@@ -11,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/supermaker-feign/supermaker-feign.iml" filepath="$PROJECT_DIR$/supermaker-feign/supermaker-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/supermaker-netflix/supermaker-netflix.iml" filepath="$PROJECT_DIR$/supermaker-netflix/supermaker-netflix.iml" />
       <module fileurl="file://$PROJECT_DIR$/supermaker-ribbon/supermaker-ribbon.iml" filepath="$PROJECT_DIR$/supermaker-ribbon/supermaker-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supermaker-user/supermaker-user.iml" filepath="$PROJECT_DIR$/supermaker-user/supermaker-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supermaker-zuul/supermaker-zuul.iml" filepath="$PROJECT_DIR$/supermaker-zuul/supermaker-zuul.iml" />
     </modules>
   </component>
 </project>
