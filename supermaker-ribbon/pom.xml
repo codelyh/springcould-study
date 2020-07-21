@@ -8,9 +8,7 @@
         <version>0.0.1-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.zq.lyh.supermaker</groupId>
     <artifactId>supermaker-ribbon</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <name>supermaker-ribbon</name>
     <description>Demo project for Spring Boot</description>
 

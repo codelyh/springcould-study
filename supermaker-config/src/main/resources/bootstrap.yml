@@ -1,19 +1,36 @@
 server:
   port: 7001
 spring:
+  kafka:
+    bootstrap-servers: localhost:9092 #指定kafka的代理地址，装好kafka默认端口号就是9092
+#    consumer:
+#      group-id: test # 指定默认消费者group id
   application:
     name: supermaker-config-server
   cloud:
+    bus:
+      refresh:
+        enabled: true #打开自动刷新功能
     config:
       server:
         git:
           uri: https://github.com/codelyh/config-repo.git
-          searchPaths: config
           basedir: F:\sup\config
           username: 329890023@qq.com
           password: lyhzq802397
+          search-paths: config/
 #          default-label: master
 eureka:
   client:
     service-url:
       defaultZone: http://localhost:8005/eureka/
+
+management: #actuator监控器暴露端口，不指定的话默认只暴露/health和/info，将不能实现全局监控效果
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh
+  endpoint:
+    health:
+      show-details: always
+

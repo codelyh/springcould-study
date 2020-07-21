@@ -1,13 +1,26 @@
 spring:
+  kafka:
+    bootstrap-servers: localhost:9092 #指定kafka的代理地址，装好kafka默认端口号就是9092
   cloud:
+    bus:
+      refresh:
+        enabled: true #打开自动刷新功能
     config:
       name: config
       profile: application
       label: master
       discovery:
         enabled: true
-        serviceId: supermaker-config-server
+        service-id: supermaker-config-server
 eureka:
   client:
     service-url:
       defaultZone: http://localhost:8005/eureka/
+management: #actuator监控器暴露端口，不指定的话默认只暴露/health和/info，将不能实现全局监控效果
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: always
